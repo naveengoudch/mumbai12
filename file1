@@ -1,7 +1,15 @@
 This is Devops class.!!!!!!!
 thank you.!!!!!!
+<<<<<<< HEAD
 jenkins is for continuous integration and continous delivery
 ansible is configuration management tool
 Docker is a containerization 
 aws is cloud services.
+=======
+jenkins
+Docker
+Aws
+Ansible
+hey this is singaproe...!!!!!!
+>>>>>>> 7664ad3eaac7a347fc45996c3b560b05f979c60a
 
